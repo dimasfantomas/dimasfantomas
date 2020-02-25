@@ -1,0 +1,19 @@
+html{
+	background: b5baba;
+	color: 000;
+	padding: 20px;
+	margin: 50px;
+	font-size: 14px;
+}
+h2{
+	font-family: verdana, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+
+}
+li.1 li.4{
+	color: 0053b3; 
+}
+li.2 li.3{
+	color: ed0505;
+}
